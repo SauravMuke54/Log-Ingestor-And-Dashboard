@@ -1,0 +1,26 @@
+[project]
+name = "logdashboard"
+version = "0.1.0"
+description = "A log dashboard to display logs from multiple running applications. Acts as a monitoring tool for applications."
+authors = [
+    { name = "Saurav Muke" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit>=1.51.0,<2.0.0",
+    "python-dotenv (>=1.2.1,<2.0.0)",
+    "pymongo (>=4.15.3,<5.0.0)"
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.14.4,<0.15.0"
+]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

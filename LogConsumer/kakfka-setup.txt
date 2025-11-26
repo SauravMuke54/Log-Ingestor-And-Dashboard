@@ -1,0 +1,4 @@
+>> docker pull apache/kafka:4.1.0
+>> docker run -p 9092:9092 apache/kafka:4.1.0
+>> docker exec -it <container-name> bash
+>> kafka-topics.sh --create --topic log-consumer --bootstrap-server localhost:9092 --partitions 3 --replication-factor 1

@@ -1,0 +1,8 @@
+[
+  {"timestamp": "2025-11-07T10:00:00", "level": "INFO", "message": "Service started"},
+  {"timestamp": "2025-11-07T10:05:00", "level": "WARN", "message": "High memory usage"},
+  {"timestamp": "2025-11-07T10:10:00", "level": "ERROR", "message": "Database connection failed"},
+  {"timestamp": "2025-11-07T10:15:00", "level": "INFO", "message": "Retry succeeded"},
+  {"timestamp": "2025-11-07T10:20:00", "level": "ERROR", "message": "Timeout error"},
+  {"timestamp": "2025-11-07T10:25:00", "level": "INFO", "message": "Health check passed"}
+]
