@@ -112,6 +112,17 @@ Log-Ingestor-And-Dashboard/
 
 ---
 
+## Screenshots
+
+<img width="1277" height="650" alt="image" src="https://github.com/user-attachments/assets/5d4dbbcc-55aa-4b17-a4d0-60a4df346d41" />
+
+<img width="1277" height="650" alt="image" src="https://github.com/user-attachments/assets/5eef7952-7586-4b75-8a47-6315b1f2b113" />
+
+<img width="1277" height="650" alt="image" src="https://github.com/user-attachments/assets/a29f8a11-cd3f-4cb6-bfce-93abbb793f22" />
+
+<img width="1277" height="650" alt="image" src="https://github.com/user-attachments/assets/eba6aee8-ce77-4d2f-a9da-bc6f34bd69cb" />
+
+
 ## Contributing
 
 Contributions welcome—please open issues or pull requests!
